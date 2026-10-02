@@ -1,0 +1,6 @@
+{
+  "name": "Velics The Glow Studio",
+  "description": "Ultra-luxury skincare, aesthetics, hair restoration, and wellness studio in Bhubaneswar with interactive skin tools, comprehensive services, and instant WhatsApp booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
